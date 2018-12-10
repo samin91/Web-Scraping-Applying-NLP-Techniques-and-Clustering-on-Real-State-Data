@@ -1,7 +1,7 @@
 # ADM-HW4
 
 Repository for the fourth homework of the course ADM 2018 at the Sapienza University. 
-Repository authors: #### Alice Schirinà, Poompavai  Chandraprakash, Samin Hamidi.
+#### Alice Schirinà, Poompavai  Chandraprakash, Samin Hamidi.
 
 ## Jupyter Notebooks Descriptions
 
